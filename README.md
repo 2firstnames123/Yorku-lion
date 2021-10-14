@@ -1,0 +1,2 @@
+# Yorku-lion
+The main objective of this project is simply to program the AI to pick and choose a spot within the 3x3 board which the other player has not already selected.Our program is successful if the AI is able to do this. The game’s AI’s primary focus will not be to win the game. There will be 3 people within the Yorku lion team creating this game. The game is a single player game between the player and the program's AI, the main languages for this program will be Html, Css and Javascript.
